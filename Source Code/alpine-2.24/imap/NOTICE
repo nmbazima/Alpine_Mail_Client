@@ -1,0 +1,33 @@
+PANDA IMAP tookit notices:
+
+The Panda IMAP Toolkit (c-client API, dmail, imapd, ipop2d, ipop3d,
+mailutil, mlock, mtest, and tmail software; and its included text) was
+developed by Mark Crispin, and is
+
+ * Copyright 2008-2010 Mark Crispin
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+
+Components of the Panda IMAP toolkit are based in part upon code
+developed by Mark Crispin at the University of Washington, and is
+
+ * Copyright 1988-2008 University of Washington
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+
+The c-client library and mtest software are in part based upon code
+developed by Mark Crispin at Stanford University, and is
+
+ * Copyright 1988 Stanford University and was developed in the
+ * Symbolic Systems Resources Group of the Knowledge Systems Laboratory
+ * at Stanford University in 1987-88, and was funded by the
+ * Biomedical Research Technology Program of the National Institutes of
+ * Health under grant number RR-00785.

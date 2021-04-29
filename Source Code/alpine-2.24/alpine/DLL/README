@@ -1,0 +1,5 @@
+This directory is populated by the build.bat script.
+
+* wxp comes from libressl, and can run 32 bits version in Alpine.
+* openssl was compiled using "perl Configure VC-WIN32", and it is
+  useful for w32 and wnt.
